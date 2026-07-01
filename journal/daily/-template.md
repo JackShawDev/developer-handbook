@@ -8,22 +8,22 @@ What is the overall goal of today.
 
 # Objectives
 
-* [x] Goal
+- [x] Goal
 
-  * Subgoal
-  * How it was achieved
-  * Notes:
-    * example text
+  - Subgoal
+  - How it was achieved
+  - Notes:
+    - example text
 
 ---
 
 # Stretch Goals
 
-* [ ] Goal
+- [ ] Goal
 
-  * Subgoals
-  * Notes:
-    * example text
+  - Subgoals
+  - Notes:
+    - example text
 
 ---
 
