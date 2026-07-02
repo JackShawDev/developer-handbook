@@ -62,6 +62,14 @@ Likewise, numbers can be converted into strings when building text
 message = "Age: " + str(age)
 ```
 
+### Boolean (`bool`)
+
+A Boolean stores one of two values:
+
+```python
+True
+False
+
 ---
 
 ## Key Takeaways
@@ -88,8 +96,8 @@ This page currently covers:
 
 - Strings (`str`)
 - Integers (`int`)
+- Booleans (`bool`)
 - Basic type conversion
-- `input()`
 
 Future topics to learn:
 
